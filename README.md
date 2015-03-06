@@ -1,0 +1,3 @@
+# FunFacts
+An app to show facts
+Learning Android Programming...
