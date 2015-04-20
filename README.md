@@ -2,7 +2,9 @@
 <p>My First App</p>
 <h4>Screens</h4>
 <style type="text/css">
-img{style="width:300px;"}
+img{
+  width:300px;
+  }
 </style>
 <img src="/images/screen1.png" alt="Screen 1" />
 
